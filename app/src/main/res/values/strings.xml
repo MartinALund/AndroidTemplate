@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="app_name">Template</string>
+
+    <!--Bottom navigation menu -->
+    <string name="nav_1">Første item</string>
+    <string name="nav_2">Andet item</string>
+    <string name="nav_3">Tredje item</string>
+
+    <string name="hello_first">Hello from first view</string>
+    <string name="hello_second">Hello from second view</string>
+</resources>

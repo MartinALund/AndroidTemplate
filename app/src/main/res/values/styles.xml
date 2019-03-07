@@ -1,0 +1,12 @@
+<resources>
+
+    <!--Ændre tema, en masse ting man kan sætte her f.eks har jeg sat NoACtionBar så der ikke er en topbar-->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

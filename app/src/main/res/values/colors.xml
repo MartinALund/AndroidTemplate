@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Ændre farver i din app -->
+<resources>
+    <color name="colorPrimary">#063852</color>
+    <color name="colorPrimaryDark">#011A27</color>
+    <color name="colorAccent">#BA5536</color>
+</resources>
