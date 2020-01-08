@@ -1,6 +1,6 @@
 package com.example.template.handlers;
 
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.FragmentManager;
 
 import com.example.template.MainActivity;
 import com.example.template.R;

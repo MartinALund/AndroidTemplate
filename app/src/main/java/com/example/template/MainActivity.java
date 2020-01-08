@@ -1,21 +1,16 @@
 package com.example.template;
 
-import android.annotation.SuppressLint;
-import android.support.annotation.NonNull;
-import android.support.design.internal.BottomNavigationItemView;
-import android.support.design.internal.BottomNavigationMenuView;
-import android.support.design.widget.BottomNavigationView;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.NonNull;
+
+import com.google.android.material.bottomnavigation.BottomNavigationView;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.MenuItem;
 
 import com.example.template.fragments.FragmentOne;
 import com.example.template.fragments.FragmentThree;
 import com.example.template.fragments.FragmentTwo;
 import com.example.template.handlers.FragmentHandler;
-
-import java.lang.reflect.Field;
 
 public class MainActivity extends AppCompatActivity {
 

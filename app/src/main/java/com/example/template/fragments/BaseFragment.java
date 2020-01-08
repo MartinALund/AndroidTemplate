@@ -1,7 +1,6 @@
 package com.example.template.fragments;
 
-import android.support.v4.app.Fragment;
-import android.widget.Toast;
+import androidx.fragment.app.Fragment;
 
 import com.example.template.MainActivity;
 
