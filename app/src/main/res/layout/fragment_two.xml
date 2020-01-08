@@ -10,12 +10,11 @@
         android:layout_height="wrap_content"
         android:text="@string/hello_second"/>
 
-    <!--Benyt altid @String resource, nem internationalisering-->
     <Button
         android:id="@+id/btn_hello_second_toast"
         android:layout_below="@+id/tv_hello_second"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Klik på mig for lille popup"/>
+        android:text="@string/template_toast"/>
 
 </RelativeLayout>
